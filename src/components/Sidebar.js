@@ -39,19 +39,19 @@ export default function Sidebar() {
                             <li className="nav-item menu-open">
                                 <ul className="nav nav-treeview">
                                     <li className="nav-item">
-                                        <a href="./Home" className="nav-link">
+                                        <a href="https://phongphira.github.io/#/Proji-mid/Home" className="nav-link">
                                             <i className="far fa-circle nav-icon" />
                                             <p>HOME</p>
                                         </a>
                                     </li>
                                     <li className="nav-item">
-                                        <a href="./AboutUs" className="nav-link">
+                                        <a href="https://phongphira.github.io/#/Proji-mid/AboutUs" className="nav-link">
                                             <i className="far fa-circle nav-icon" />
                                             <p>ABOUT US</p>
                                         </a>
                                     </li>
                                     <li className="nav-item">
-                                        <a href="./Portfolio" className="nav-link">
+                                        <a href="https://phongphira.github.io/#/Proji-mid/Portfolio" className="nav-link">
                                             <i className="far fa-circle nav-icon" />
                                             <p>PORTFOLIO</p>
                                         </a>

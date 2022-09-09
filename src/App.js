@@ -6,7 +6,7 @@ import Header from './components/Header';
 import Portfolio from './components/Portfolio';
 import AboutUs from './components/AboutUs';
 import Home from './components/Home';
-import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import {HashRouter as Router, Switch, Route } from "react-router-dom";
 function App() {
   return (
     <div className="App">

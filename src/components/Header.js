@@ -10,7 +10,7 @@ export default function Header() {
                         <a className="nav-link" data-widget="pushmenu" href="#" role="button"><i className="fas fa-bars" /></a>
                     </li>
                     <li className="nav-item d-none d-sm-inline-block">
-                    <a href="./Home" className="nav-link">Home</a>
+                    <a href="https://phongphira.github.io/#/Proji-mid/Home" className="nav-link">Home</a>
                     </li>
                 </ul>
             </nav>

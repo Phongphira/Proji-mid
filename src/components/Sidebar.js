@@ -6,7 +6,7 @@ export default function Sidebar() {
             <aside className="main-sidebar sidebar-dark-primary elevation-4">
                 {/* Brand Logo */}
                 <a href="index3.html" className="brand-link">
-                    <img src="dist/img/AdminLTELogo.png" alt="AdminLTE Logo" className="brand-image img-circle elevation-3" style={{ opacity: '.8' }} />
+                    <img src="https://adminlte.io/themes/v3/dist/img/AdminLTELogo.png" alt="AdminLTE Logo" className="brand-image img-circle elevation-3" style={{ opacity: '.8' }} />
                     <span className="brand-text font-weight-light">Portfolio</span>
                 </a>
                 {/* Sidebar */}
@@ -14,7 +14,7 @@ export default function Sidebar() {
                     {/* Sidebar user panel (optional) */}
                     <div className="user-panel mt-3 pb-3 mb-3 d-flex">
                         <div className="image">
-                            <img src="dist/img/userme2.jpg" className="img-circle elevation-2" alt="User Image" />
+                            <img src="https://scontent.fbkk13-2.fna.fbcdn.net/v/t1.6435-9/106897179_695226344376739_753518412666226244_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=174925&_nc_eui2=AeGP-7GfSLKHrkZJ-lBQbRyDen6FZ7euTpx6foVnt65OnHd52lb6WLfWDxNAOdLQ8a1U-Wo0xw3A2XkYL6inFXGJ&_nc_ohc=ttp2MBFNaJUAX-lKbC5&_nc_ht=scontent.fbkk13-2.fna&oh=00_AT9WFBj969O52Q-f_0lcHVvrUeTJYRLVFA2TmdAGmDxdMQ&oe=634146C9" className="img-circle elevation-2" alt="User Image" />
                         </div>
                         <div className="info">
                             <a href="#" className="d-block">Phongphira khamkhaek</a>
